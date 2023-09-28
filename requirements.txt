@@ -1,0 +1,8 @@
+# py -3.10 -m pip install PySimpleGUI
+# py -3.10 -m pip install pandas
+# py -3.10 -m pip install matplotlib
+# py -3.10 -m pip install scikit-learn
+# py -3.10 -m pip install imbalanced-learn
+# py -3.10 -m pip install tensorflow
+# py -3.10 -m pip install pm4py
+# py -3.10 -m pip install pydot
